@@ -13,7 +13,7 @@ while(again == "YES"){
 
     Console.WriteLine("What is your name?");
     string yourName = Console.ReadLine();
-    Console.WriteLine("Hello, good aftertnoon " + yourName);
+    Console.WriteLine("Hello, good afternoon " + yourName);
 
     Console.WriteLine("Would you like to tell me your name again? 'YES' 'NO'");
     again = Console.ReadLine().ToUpper();
