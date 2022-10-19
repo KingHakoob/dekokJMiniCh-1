@@ -7,4 +7,8 @@ build_property.InvariantGlobalization =
 build_property.PlatformNeutralAssembly = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = dekokJMiniCh_1
+<<<<<<< HEAD
 build_property.ProjectDir = c:\Users\jacob\OneDrive\Documents\CodeStack\Level#1\Homework\dekokJMiniCh#1\
+=======
+build_property.ProjectDir = /Users/angelmanz/Documents/Level1/GitRepository/dekokJMiniCh-1/
+>>>>>>> bc20815bf80c42255d118c1b9bfa7ae4f30d980b
